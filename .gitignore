@@ -1,0 +1,58 @@
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Build directory
+/bin/
+/target/
+
+# Maven dependencies (if applicable)
+dependency-reduced-pom.xml
+build/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle dependencies (if applicable)
+.gradle/
+build/
+
+# Java specific files
+*.class
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Other generated files
+*.jar
+*.war
+*.ear
+
+# Git specific files
+*.orig
+
+# Node specific (if applicable)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
